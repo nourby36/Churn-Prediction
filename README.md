@@ -1,11 +1,11 @@
-## Churn anamysis
+# Churn analysis and prediction
 This project contains  code used for data analysis and data mining model development. The internship was conducted at Tunisie Telecom, where various Business Intelligence and Data Mining techniques were applied.
 
 ## Implementation and Experimentation
 Software Environment
 The project was developed using tools like Python, Anaconda, and Jupyter Notebook.
 
-# Analysis Process and Techniques
+## Analysis Process and Techniques
 - **Data Visualization**: Using visualization techniques for enhanced data comprehension.
 - **Data Preparation and Cleaning**: Transforming and cleaning data before analysis.
 - **Exploratory Analysis** : Descriptive study of data to identify trends and outliers.
@@ -25,7 +25,6 @@ To run the code provided in this project, follow these steps:
 Clone the repository:
 ```bash
 git clone https://github.com/nourby36/Churn-Prediction.git
-cd your-repo
 ```
 
 Install the required dependencies from requirements.txt:
